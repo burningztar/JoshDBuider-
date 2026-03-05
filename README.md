@@ -1,6 +1,4 @@
-import { useState, useEffect, useRef, useCallback } from "react";
 
-const CLAUDE_API = "https://api.anthropic.com/v1/messages";
 
 // ─── Mock Data Generators ───────────────────────────────────────────────────
 const SOL_TOKENS = [
